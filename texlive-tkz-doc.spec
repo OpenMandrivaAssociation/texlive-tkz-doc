@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.1c
 Name:		texlive-tkz-doc
-Version:	1.1c
-Release:	11
+Version:	1.1d
+Release:	1
 Summary:	Documentation macros for the TKZ series of packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz-doc
