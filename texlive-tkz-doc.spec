@@ -1,6 +1,6 @@
 Name:		texlive-tkz-doc
 Version:	63902
-Release:	1
+Release:	2
 Summary:	Documentation macros for the TKZ series of packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz-doc
