@@ -1,5 +1,5 @@
 Name:		texlive-tkz-doc
-Version:	66115
+Version:	68665
 Release:	1
 Summary:	Documentation macros for the TKZ series of packages
 Group:		Publishing
