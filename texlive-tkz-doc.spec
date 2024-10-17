@@ -3,7 +3,7 @@ Version:	68665
 Release:	1
 Summary:	Documentation macros for the TKZ series of packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz-doc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkz-doc
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-doc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-doc.doc.r%{version}.tar.xz
